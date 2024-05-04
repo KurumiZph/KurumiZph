@@ -37,7 +37,8 @@ I'm currently studying CSE at [Chitkara University PB](https://www.chitkara.edu.
 <!-- <p align="center">
 	<img src="https://moe-counter.glitch.me/get/@KurumiZph?theme=moebooru-h"> <br/>
 </p> -->
-<a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@KurumiZph?theme=rule34"></a>
+<a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://count.getloli.com/get/@KurumiZph?theme=gelbooru-h"></a>
+<!-- https://moe-counter.glitch.me/get/@KurumiZph?theme=rule34 -->
 <a href="https://github.com/KurumiZph"><img align="left" width="100" src="./images/mahiro.png"></a>
 
 ```yaml

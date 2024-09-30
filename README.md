@@ -53,7 +53,7 @@ Hehe~ another cutie has been caught!
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
 <a href="https://github.com/KurumiZph"><img align="right" width="100" src="./images/mahiro_box.png" /></a>
-**My Quickest Contact Will Be Discord:** [Tohka](https://discord.com/users/632235913992208424)
+**My Quickest Contact Will Be Discord:** [Kurumi](https://discord.com/users/632235913992208424)
 
 [![](https://img.shields.io/github/followers/KurumiZph?label=Followers&style=social)](https://github.com/KurumiZph)
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/632235913992208424)

@@ -20,7 +20,7 @@ I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading 
 
 ## **💻 Experience**
 <a href="https://github.com/KurumiZph"><img align="right" width="100" src="./images/mahiro_cry.png"></a>
-I'm currently studying CSE at [Chitkara University PB](https://www.chitkara.edu.in/). The course is almost done, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
+I'm currently doing... nothing, but I am still learning. I don't have anything special, but I hope to be able to change that in the future.
 
 
 ## **📊 Github Stats**

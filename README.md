@@ -5,18 +5,17 @@
 </div>
 
 ![Preview](./images/bg.webp)
-
-<a href="https://discord.com/users/632235913992208424"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/632235913992208424?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
-
+<!--<a href="https://discord.com/users/632235913992208424"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/632235913992208424?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>-->
 
 ### Hi!👋 I'm Kurumi
 
-**Weeb Developer and Gamer** 
+**Weeb Developer**
 
 ## **☕ About me**
 <a href="https://github.com/KurumiZph"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
 I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading light novels, and sometimes tinkering with IoT. 
-<br><br>
+<br><br><br>
+
 
 ## **💻 Experience**
 <a href="https://github.com/KurumiZph"><img align="right" width="100" src="./images/mahiro_cry.png"></a>
@@ -53,8 +52,7 @@ Hehe~ another cutie has been caught!
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
 <a href="https://github.com/KurumiZph"><img align="right" width="100" src="./images/mahiro_box.png" /></a>
-**My Quickest Contact Will Be Discord:** [Kurumi](https://discord.com/users/632235913992208424)
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/632235913992208424?hideActivity=true&showDisplayName=true&idleMessage=&theme=dark)](https://discord.com/users/632235913992208424)
 [![](https://img.shields.io/github/followers/KurumiZph?label=Followers&style=social)](https://github.com/KurumiZph)
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/632235913992208424)
 [![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/Rin-Mizuki/)

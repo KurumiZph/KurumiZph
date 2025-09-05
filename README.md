@@ -40,7 +40,7 @@ I'm currently doing... nothing, but I am still learning. I don't have anything s
 </p> -->
 <a href="https://discord.com/users/738748102311280681">
 <!-- <img align="right" width=400 src="https://count.getloli.com/get/@KurumiZph?theme=gelbooru"></a> -->
-<img align="right" width=400 src="[https://counter.katomegumi.net/get/@KurumiZph?theme=gelbooru-h](https://count.getloli.com/@kurumizph?name=kurumizph&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto)"></a>
+<img align="right" width=400 src="https://count.getloli.com/@kurumizph?name=kurumizph&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto"></a>
 <!-- https://moe-counter.glitch.me/get/@KurumiZph?theme=rule34 -->
 <a href="https://github.com/KurumiZph"><img align="left" width="100" src="./images/mahiro.png"></a>
 
